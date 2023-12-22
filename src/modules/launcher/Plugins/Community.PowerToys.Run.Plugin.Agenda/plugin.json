@@ -1,0 +1,13 @@
+{
+	"ID": "C3F7E8A14E5B4E6C8E9F0D2A7B9C0D1E",
+	"ActionKeyword": "a: ",
+	"IsGlobal": true,
+	"Name": "Agenda",
+	"Author": "amweiss",
+	"Version": "1.0.0",
+	"Language": "csharp",
+	"Website": "https://github.com/amweiss",
+	"ExecuteFileName": "Community.PowerToys.Run.Plugin.Agenda.dll",
+	"IcoPathDark": "Images\\agenda.dark.png",
+	"IcoPathLight": "Images\\agenda.light.png"
+}
